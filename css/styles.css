@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper{
+    width:970px;
+    margin:auto;
+    border:1px solid red;
+    vertical-align: bottom;
+}
+
+p{
+    display: inline-block;
+    text-align: center;
+    width:44px;
+    height:44px;
+    margin:1px;
+    border:1px solid #808080;
+}
+
+span{
+    display: block;
+}
+
+
+.blue{
+    width:96px;
+    display:inline-block;
+}
+
+.blue .first{
+    display:block;
+}
+.blue p{
+    background-color:#689bff;
+}
+
+.top, .bottom{
+    font-size:10px;
+}
+
+.pink{
+    display:inline-block;
+    width: 480px;
+}
